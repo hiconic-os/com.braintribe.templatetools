@@ -152,9 +152,10 @@ public class Template {
 				break;
 			}
 			else {
+				builder.append(source.substring(index, i));
 				escapes = true;
 				builder.append("${");
-				index +=3;
+				index = i + 3;
 			}
 		}
 		

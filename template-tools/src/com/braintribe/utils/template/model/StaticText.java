@@ -54,4 +54,8 @@ public class StaticText implements TemplateNode {
 		// noop
 	}
 	
+	public String getText() {
+		return text;
+	}
+	
 }
