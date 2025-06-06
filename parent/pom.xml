@@ -21,7 +21,7 @@ limitations under the License.
     <properties>
         <java.version>1.8</java.version>
         <V.com.braintribe.templatetools>[2.0,2.1)</V.com.braintribe.templatetools>
-        <V.com.braintribe.logging>[2.0,2.1)</V.com.braintribe.logging>
+        <V.com.braintribe.common>[2.0,2.1)</V.com.braintribe.common>
         <V.com.braintribe.testing>[2.0,2.1)</V.com.braintribe.testing>
     </properties>
     <licenses>
